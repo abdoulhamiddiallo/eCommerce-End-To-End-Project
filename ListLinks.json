@@ -1,0 +1,31 @@
+[
+    {
+        "source_url" : "refs/heads/main/customers.csv",
+        "sink_folder" : "data_customers",
+        "sink_file" : "customers.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/orders.csv",
+        "sink_folder" : "data_orders",
+        "sink_file" : "orders.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/payments.csv",
+        "sink_folder" : "data_payments",
+        "sink_file" : "payments.csv"
+
+    },
+	{
+        "source_url" : "refs/heads/main/support_tickets.csv",
+        "sink_folder" : "data_support_tickets",
+        "sink_file" : "support_tickets.csv"
+
+    },
+	    {
+        "source_url" : "refs/heads/main/web_activities.csv",
+        "sink_folder" : "data_web_activities",
+        "sink_file" : "web_activities.csv"
+
+    }
+]
