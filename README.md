@@ -53,6 +53,21 @@ GitHub CSV → Dynamic Pipeline → Lakehouse → Semantic Model → Dashboard
 
 ---
 
+## 🔗 Data Lineage (End-to-End)
+
+![Lineage](screenshots/Lineage.png)
+
+👉🏾 Cette vue illustre le flux complet de la donnée :
+
+GitHub → Pipeline → Lakehouse → Modèle sémantique → Rapport Power BI  
+
+👉🏾 Elle met en évidence :
+- la traçabilité des données  
+- les dépendances entre composants  
+- l’architecture end-to-end  
+
+---
+
 ## 🧱 Data Architecture (Medallion)
 
 | Layer | Description |
